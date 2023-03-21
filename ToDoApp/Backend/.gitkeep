@@ -1,0 +1,10 @@
+common
+controllers
+configs
+data
+middlewares
+routes
+services
+src
+utils
+
